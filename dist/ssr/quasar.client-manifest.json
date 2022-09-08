@@ -1,13 +1,13 @@
 {
   "publicPath": "/",
   "all": [
-    "js/vendor.bf517188.js",
+    "js/vendor.f593ca73.js",
     "css/vendor.c8501ae3.css",
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.99f5f787.woff",
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.c08197a9.woff2",
     "favicon.ico",
-    "js/452.00888802.js",
-    "js/app.9aa19ac2.js",
+    "js/452.990bce67.js",
+    "js/app.21d8449e.js",
     "fonts/KFOlCnqEu92Fr1MmEU9fBBc-.48af7707.woff",
     "fonts/KFOkCnqEu92Fr1MmgVxIIzQ.68bb21d0.woff",
     "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.f5677eb2.woff",
@@ -23,20 +23,20 @@
     "icons/favicon-16x16.png",
     "icons/icons8-telegram-app.svg",
     "icons/icons8-telegram.svg",
-    "css/452.26526f43.css",
+    "css/452.b1e90135.css",
     "css/app.31d6cfe0.css"
   ],
   "initial": [
     "css/vendor.c8501ae3.css",
-    "js/vendor.bf517188.js",
+    "js/vendor.f593ca73.js",
     "css/app.31d6cfe0.css",
-    "js/app.9aa19ac2.js"
+    "js/app.21d8449e.js"
   ],
   "async": [
-    "js/452.00888802.js",
+    "js/452.990bce67.js",
     "js/248.2c1bb054.js",
     "js/155.b0950795.js",
-    "css/452.26526f43.css"
+    "css/452.b1e90135.css"
   ],
   "modules": {
     "11265504": [
@@ -1019,7 +1019,7 @@
       3,
       2
     ],
-    "8d8306a4": [
+    "76d8ea9b": [
       22,
       5
     ],
@@ -1744,7 +1744,7 @@
       3,
       2
     ],
-    "b7897a48": [
+    "61d5b0c9": [
       22,
       5
     ],
@@ -2214,7 +2214,7 @@
       3,
       2
     ],
-    "50a94e6b": [
+    "9ca24b44": [
       22,
       5
     ],

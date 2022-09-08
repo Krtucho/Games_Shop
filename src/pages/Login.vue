@@ -194,7 +194,7 @@ export default defineComponent({
       //bebidas: [],
       paginate: ["bebidas"],
       nombreCoctel: "",
-      showPictures: ref(false),
+      showPictures: ref(true),
       posts : linksList,
 
             gamesList: linksList,
