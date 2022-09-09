@@ -17,7 +17,7 @@
       <div class="q-pa-md">
           <div class="column items-center" >
             <div class="col-12 col-md-auto" style="padding-top: 8%;">
-              <div class="text-h2" style="font-weight: bold; color: #43AAFF; font-size: 1.8em;"> Listado de Juegos de XBOX 360</div>
+              <div class="text-h2" style="font-weight: bold; color: #43AAFF; font-size: 1.6em;"> Listado de Juegos de XBOX 360</div>
             </div>
             <div class="col-12 justify-content-center">
               <q-checkbox  dark keep-color v-model="showPictures" label="Mostrar imágenes" color="cyan" />
@@ -30,7 +30,7 @@
             </div>
           </div>
         
-        <div class="row justify-center" style="padding-bottom: 8%; padding-top: 1%;">
+        <div class="row justify-center" style="padding-bottom: 10%; padding-top: 1%;">
           <div class="row justify-center" style="width: 60%;"> 
             <q-list bordered separator v-for="(game, index) in getData" :key="index" class="col-12 col-sm-6 col-md-4">              
               <q-item clickable v-ripple class="column items-center"  :href="game.img">
