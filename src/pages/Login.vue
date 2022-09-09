@@ -32,7 +32,7 @@
         
         <div class="row justify-center" style="padding-bottom: 5%; padding-top: 1%;">
           <div class="row justify-center" style="width: 60%;"> 
-            <q-list bordered separator v-for="(game, index) in getData" :key="index" class="col-4">              
+            <q-list bordered separator v-for="(game, index) in getData" :key="index" class="col-12 col-sm-6 col-md-4">              
               <q-item clickable v-ripple class="column items-center"  :href="game.img">
                         <q-item-img class="col">
                           <img v-if="showPictures" img v-bind:src="game.img" alt="Generic placeholder image" width="200" class="ml-lg-5 order-1 order-lg-2" />
