@@ -6,8 +6,8 @@
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.99f5f787.woff",
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.c08197a9.woff2",
     "favicon.ico",
-    "js/452.c7276567.js",
-    "js/app.8a729b80.js",
+    "js/452.6872cec7.js",
+    "js/app.a24711c0.js",
     "fonts/KFOlCnqEu92Fr1MmEU9fBBc-.48af7707.woff",
     "fonts/KFOkCnqEu92Fr1MmgVxIIzQ.68bb21d0.woff",
     "fonts/KFOlCnqEu92Fr1MmYUtfBBc-.f5677eb2.woff",
@@ -23,20 +23,20 @@
     "icons/favicon-16x16.png",
     "icons/icons8-telegram-app.svg",
     "icons/icons8-telegram.svg",
-    "css/452.c9fab6c9.css",
+    "css/452.2d158670.css",
     "css/app.31d6cfe0.css"
   ],
   "initial": [
     "css/vendor.c8501ae3.css",
     "js/vendor.f593ca73.js",
     "css/app.31d6cfe0.css",
-    "js/app.8a729b80.js"
+    "js/app.a24711c0.js"
   ],
   "async": [
-    "js/452.c7276567.js",
+    "js/452.6872cec7.js",
     "js/248.2c1bb054.js",
     "js/155.b0950795.js",
-    "css/452.c9fab6c9.css"
+    "css/452.2d158670.css"
   ],
   "modules": {
     "11265504": [
@@ -1019,7 +1019,7 @@
       3,
       2
     ],
-    "638d3e20": [
+    "2f0045d5": [
       22,
       5
     ],
@@ -1744,7 +1744,7 @@
       3,
       2
     ],
-    "8d93b1c4": [
+    "19fd0c03": [
       22,
       5
     ],
@@ -2214,7 +2214,7 @@
       3,
       2
     ],
-    "6e848ce9": [
+    "0f3016e4": [
       22,
       5
     ],
